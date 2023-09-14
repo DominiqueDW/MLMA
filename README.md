@@ -18,7 +18,7 @@ This repository is for viewing purposes only and comes with a proprietary licens
 
 ## How to Access the Code
 
-As this is a private repository, access is restricted to authorized individuals. If you are an authorized examiner, please proceed to view the code folders and files for each model.
+As this is a private repository, access is restricted to authorised individuals. If you are an authorised examiner, please proceed to view the code folders and files for each model.
 
 ## Contact
 
