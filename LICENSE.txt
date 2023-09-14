@@ -1,0 +1,27 @@
+Proprietary License for DominiqueDW/MLMA repository
+
+Copyright (C) 2023 Dominique
+
+All rights reserved.
+
+1. Scope
+
+This license applies to the software and any associated documentation files (the "Software") contained in this repository.
+
+2. Permissions
+
+The Software is for viewing purposes only. No rights are granted to modify, distribute, sublicense, or use the Software for any other purpose.
+
+3. Termination
+
+This license will automatically terminate if you fail to comply with any of the terms.
+
+4. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+5. Governing Law
+
+This license and the use of the Software are governed by the laws of the Republic of South Africa.
+
+By accessing this repository, you agree to the terms of this license.
